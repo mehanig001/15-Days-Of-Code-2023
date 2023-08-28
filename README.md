@@ -1,4 +1,4 @@
-# [Name] - Vision 15 Days of Code Log
+# GAUTAM MEHANI - Vision 15 Days of Code Log
 
 ### Day 1
 
