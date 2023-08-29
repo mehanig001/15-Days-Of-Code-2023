@@ -3,6 +3,7 @@
 Welcome to my 15-day coding challenge! This challenge is designed to help me improve my coding skills and tackle coding problems daily.
 
 ## Day 1: Learning STL and Codeforces Practice
+## 29 Aug 2023 <br>
 
   - Watched 4 informative lectures on the Standard Template Library (STL) from the LUV YouTube     channel
   - 1st was basic overview of stl containers and algorithms
