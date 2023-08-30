@@ -12,7 +12,7 @@ Individual submission link <br>
 - [Sequence Game](https://codeforces.com/contest/1862/submission/221007003)<br>
 - [Good Arrays](https://codeforces.com/contest/1856/submission/220942840)<br>
 
-Watched 4 informative lectures on the Standard Template Library (STL) from the LUV YouTube     channel
+Watched 5 informative lectures on the Standard Template Library (STL) from the LUV YouTube channel
   - 1st was basic overview of stl containers and algorithms
   - 2nd and 3rd was implementation of vector, pairs, vector of vector, pair of pair, vector of     pairs
   - 4th was about iterators basics
@@ -24,5 +24,11 @@ Here is the link of code which I practised to learn vector and pairs I put all t
  [Iterators and Use of auto Keyword](https://pastebin.com/2ynbmaSe)<br>
 
  
+## Day 2: Learning STL and Codeforces Practice
+## 30 Aug 2023 <br>
 
+Watched next two lectures of STL i.e. L-6 and L-7 of STL bu LUV YouTube channel and learned maps, unordered_map, and multi maps
+Here is the link in which I practised map container in STL and celebrated Rakshabandhan festival.
+
+[MAPS](https://pastebin.com/2pD643vE)
 
