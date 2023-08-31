@@ -34,7 +34,7 @@ Here is the link in which I practised map container in STL and celebrated Raksha
 ## Day 3 : 31 Aug 2023 <br>
 Watched next two lectures of STL i.e. L-7 and L-8 of STL bu LUV YouTube channel and learned set, unordered_set, and multiset 
 Here is the link in which I practised set in STL. <br>
-[SET](https://pastebin.com/Ma6rm0Lp) <br>
+[SET](https://pastebin.com/Ma6rm0Lp) <br>          [MonkAndCandies](https://www.hackerearth.com/practice/data-structures/trees/heapspriority-queues/practice-problems/algorithm/monk-and-the-magical-candy-bags/?fbclid=IwAR2kDiVkEaxu9dkCTCUhzXLuIccNn0Gz3dSfkaSUjlDE6Nb9UHMzt8HNDo4) <br>
 
 
 
