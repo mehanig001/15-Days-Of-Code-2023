@@ -2,10 +2,10 @@
 
 Welcome to my 15-day coding challenge! This challenge is designed to help me improve my coding skills and tackle coding problems daily.
 
-## Day 1: Learning STL and Codeforces Practice
-## 29 Aug 2023 <br>
+## Learning STL and Codeforces Practice
+##  Day 1 : 29 Aug 2023 <br>
 
-### Submission Link for Codeforces
+#### Submission Link for Codeforces :-
 I tried two questions but I wasn't able to successfully submit the soln but soon I will try to fix the errors <br>
 - [Submission Link](https://codeforces.com/submissions/GautamMehani) <br> 
 Individual submission link <br> 
@@ -24,11 +24,17 @@ Here is the link of code which I practised to learn vector and pairs I put all t
  [Iterators and Use of auto Keyword](https://pastebin.com/2ynbmaSe)<br>
 
  
-## Day 2: Learning STL and Codeforces Practice
-## 30 Aug 2023 <br>
+## Day 2 : 30 Aug 2023 <br>
 
 Watched next two lectures of STL i.e. L-6 and L-7 of STL bu LUV YouTube channel and learned maps, unordered_map, and multi maps
 Here is the link in which I practised map container in STL and celebrated Rakshabandhan festival.
 
-[MAPS](https://pastebin.com/2pD643vE)
+[MAPS](https://pastebin.com/2pD643vE) <br>
+
+## Day 3 : 31 Aug 2023 <br>
+Watched next two lectures of STL i.e. L-7 and L-8 of STL bu LUV YouTube channel and learned set, unordered_set, and multiset 
+Here is the link in which I practised set in STL. <br>
+[SET](https://pastebin.com/Ma6rm0Lp) <br>
+
+
 
