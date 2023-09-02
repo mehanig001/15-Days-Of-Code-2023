@@ -37,4 +37,14 @@ Here is the link in which I practised set in STL. <br>
 [SET](https://pastebin.com/Ma6rm0Lp) <br>          [MonkAndCandies](https://www.hackerearth.com/practice/data-structures/trees/heapspriority-queues/practice-problems/algorithm/monk-and-the-magical-candy-bags/?fbclid=IwAR2kDiVkEaxu9dkCTCUhzXLuIccNn0Gz3dSfkaSUjlDE6Nb9UHMzt8HNDo4) <br>
 
 
+## Day 4 : 01 Sep 2023 <br>
+I went Satna with my family so my whole day was spent in travelling and that is why I couldn't practised CP. <br>
+
+## Day 5 : 02 Sep 2023 <br>
+The problem Good Arrays which I left unsubmitted in day 1 finally got submitted when I tried it with another logic after watching soln here is the link 
+[Good Arrays CF](https://codeforces.com/contest/1856/submission/221561175)<br>
+
+Watched next two lectures of STL i.e. L-9 and L-10 of STL bu LUV YouTube channel  <br>
+
+
 
