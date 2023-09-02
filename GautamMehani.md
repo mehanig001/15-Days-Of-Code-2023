@@ -32,7 +32,7 @@ Here is the link in which I practised map container in STL and celebrated Raksha
 [MAPS](https://pastebin.com/2pD643vE) <br>
 
 ## Day 3 : 31 Aug 2023 <br>
-Watched next two lectures of STL i.e. L-7 and L-8 of STL bu LUV YouTube channel and learned set, unordered_set, and multiset 
+Watched next three lectures of STL i.e. L-7, L-8 and L-9 of STL bu LUV YouTube channel and learned set, unordered_set, and multiset 
 Here is the link in which I practised set in STL. <br>
 [SET](https://pastebin.com/Ma6rm0Lp) <br>          [MonkAndCandies](https://www.hackerearth.com/practice/data-structures/trees/heapspriority-queues/practice-problems/algorithm/monk-and-the-magical-candy-bags/?fbclid=IwAR2kDiVkEaxu9dkCTCUhzXLuIccNn0Gz3dSfkaSUjlDE6Nb9UHMzt8HNDo4) <br>
 
@@ -44,7 +44,8 @@ I went Satna with my family so my whole day was spent in travelling and that is 
 The problem Good Arrays which I left unsubmitted in day 1 finally got submitted when I tried it with another logic after watching soln here is the link 
 [Good Arrays CF](https://codeforces.com/contest/1856/submission/221561175)<br>
 
-Watched next two lectures of STL i.e. L-9 and L-10 of STL bu LUV YouTube channel  <br>
+Watched next  lecture of STL i.e. L-10 of STL bu LUV YouTube channel which was about nesting of containers in STL and solved a question in which I learned to use multiset whenever we do not wnat to remove duplicate data <br>
+[MarksAndNameEntries](https://www.hackerearth.com/problem/algorithm/the-monk-and-class-marks/?fbclid=IwAR09BMLG-1NhqDlVQq0KIzSr8ZTgqrbJmdfnsXc7KnDiphgX5UmbFLoEYjE)<br>
 
 
 
