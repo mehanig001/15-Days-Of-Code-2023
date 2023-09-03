@@ -2,7 +2,7 @@
 
 Welcome to my 15-day coding challenge! This challenge is designed to help me improve my coding skills and tackle coding problems daily.
 
-## Learning STL and Codeforces Practice
+## Learning [STL](https://youtube.com/playlist?list=PLauivoElc3gh3RCiQA82MDI-gJfXQQVnn&si=h_WPJhHIPX6WYbZb) and [Codeforces](https://codeforces.com/profile/GautamMehani) Practice
 ##  Day 1 : 29 Aug 2023 <br>
 
 #### Submission Link for Codeforces :-
@@ -48,4 +48,10 @@ Watched next  lecture of STL i.e. L-10 of STL bu LUV YouTube channel which was a
 [MarksAndNameEntries](https://www.hackerearth.com/problem/algorithm/the-monk-and-class-marks/?fbclid=IwAR09BMLG-1NhqDlVQq0KIzSr8ZTgqrbJmdfnsXc7KnDiphgX5UmbFLoEYjE)<br>
 
 
+## Day 6 : 03 Sep 2023 <br>
+##### BACK TO MANIT
+After celebreating Rakshbandhan at my home today I returned back to the MANIT since my ticket wasn't confirmed I got tired in 12 hrs journey but 
+Watched next two lectures of STL i.e. L-11 and L-12 of STL bu LUV YouTube channel and learned basics of Stacks and Queues and done a question of check the given string of parenthesis is valid or not. <br><br>
+Here is the link in which I practised Stack And Queue container in STL. <br>
+[StackAndQueue](https://pastebin.com/VZ157RFJ) <br>
 
