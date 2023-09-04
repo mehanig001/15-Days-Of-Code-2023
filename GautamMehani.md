@@ -55,3 +55,9 @@ Watched next two lectures of STL i.e. L-11 and L-12 of STL bu LUV YouTube channe
 Here is the link in which I practised Stack And Queue container in STL. <br>
 [StackAndQueue](https://pastebin.com/VZ157RFJ) <br>
 
+
+## Day 7 : 04 Sep 2023 <br>
+
+Watched next  lecture of STL i.e. L-13 of STL bu LUV YouTube channel which was about finding next Greater element for a given vector which is widely used in CP using Stack container in STL <br> <br>
+Here is the link in which I practised to find next greater element for a given vector. <br>
+[Next Greater Element](https://pastebin.com/HNRriG8J) <br>
