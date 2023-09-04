@@ -61,3 +61,4 @@ Here is the link in which I practised Stack And Queue container in STL. <br>
 Watched next  lecture of STL i.e. L-13 of STL bu LUV YouTube channel which was about finding next Greater element for a given vector which is widely used in CP using Stack container in STL <br> <br>
 Here is the link in which I practised to find next greater element for a given vector. <br>
 [Next Greater Element](https://pastebin.com/HNRriG8J) <br>
+[LeetCode Sub Link for nxtGreaterQue](https://leetcode.com/problems/next-greater-element-i/submissions/)<br>
