@@ -66,8 +66,9 @@ Here is the link in which I practised to find next greater element for a given v
 
 ## Day 8 : 05 Sep 2023 <br>
 #### First of all Happy Teachers Day...
-Watched next  lectures of STL i.e. L-14 and L-15 of STL bu LUV YouTube channel which was about intro sort which is widely used algorithm in STL and used comparator function to customise sorting.<br> <br>
-Here is the link in which I practised intro sort. <br>
+Watched next  lectures of STL i.e. L-14, L-15 and L-16  of STL bu LUV YouTube channel which was about intro sort which is widely used algorithm in STL and used comparator function to customise sorting. And finding lower_bound and upper_bound in any STL container<br> <br>
+Here is the link in which I practised intro sort, comparator function and lower_bound & upper_bound. <br>
 [IntroSort](https://pastebin.com/LJChnLpa)<br>
 [ComparatorFunction](https://pastebin.com/zB5HnUJJ)<br>
+[LowerAndUpperBound](https://pastebin.com/r155L931)<br>
 tried an easy question in CF  [Bear And Big Brother](https://codeforces.com/contest/791/submission/221952731)<br>
