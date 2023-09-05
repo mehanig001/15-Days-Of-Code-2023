@@ -69,4 +69,5 @@ Here is the link in which I practised to find next greater element for a given v
 Watched next  lectures of STL i.e. L-14 and L-15 of STL bu LUV YouTube channel which was about intro sort which is widely used algorithm in STL and used comparator function to customise sorting.<br> <br>
 Here is the link in which I practised intro sort. <br>
 [IntroSort](https://pastebin.com/LJChnLpa)<br>
-tried an easy question in CF [Bear And Big Brother](https://codeforces.com/contest/791/submission/221952731)<br>
+[ComparatorFunction](https://pastebin.com/zB5HnUJJ)<br>
+tried an easy question in CF  [Bear And Big Brother](https://codeforces.com/contest/791/submission/221952731)<br>
