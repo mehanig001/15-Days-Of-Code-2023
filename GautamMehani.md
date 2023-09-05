@@ -62,3 +62,11 @@ Watched next  lecture of STL i.e. L-13 of STL bu LUV YouTube channel which was a
 Here is the link in which I practised to find next greater element for a given vector. <br>
 [Next Greater Element](https://pastebin.com/HNRriG8J) <br>
 [LeetCode Sub Link for nxtGreaterQue](https://leetcode.com/problems/next-greater-element-i/submissions/)<br>
+
+
+## Day 8 : 05 Sep 2023 <br>
+#### First of all Happy Teachers Day...
+Watched next  lectures of STL i.e. L-14 and L-15 of STL bu LUV YouTube channel which was about intro sort which is widely used algorithm in STL and used comparator function to customise sorting.<br> <br>
+Here is the link in which I practised intro sort. <br>
+[IntroSort](https://pastebin.com/LJChnLpa)<br>
+tried an easy question in CF [Bear And Big Brother](https://codeforces.com/contest/791/submission/221952731)<br>
