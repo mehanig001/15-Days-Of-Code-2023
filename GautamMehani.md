@@ -72,3 +72,7 @@ Here is the link in which I practised intro sort, comparator function and lower_
 [ComparatorFunction](https://pastebin.com/zB5HnUJJ)<br>
 [LowerAndUpperBound](https://pastebin.com/r155L931)<br>
 tried an easy question in CF  [Bear And Big Brother](https://codeforces.com/contest/791/submission/221952731)<br>
+
+
+## Day 9 : 06 Sep 2023 <br>
+Krishna Janmashtmi was celebrated in our college therefore I couldn't code much today. <br>
