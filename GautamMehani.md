@@ -80,7 +80,7 @@ Krishna Janmashtmi was celebrated in our college therefore I couldn't code much 
 
 ## Day 10 : 07 Sep 2023 <br>
 
-Watched next  lecture of STL i.e. L-17 and L-18 of STL by LUV YouTube channel which was about algorithms used like findng min and max elements, accumulate and reverse in STL <br> <br>
+Watched next  lecture of STL i.e. L-17 and L-18 of STL by LUV YouTube channel which was about algorithms used like finding min and max elements, accumulate and reverse in STL <br> <br>
 Given Codeforces Round 895 Div. 3 contest link is below : <br>
 [B: The coordinator or There and back again](https://codeforces.com/contest/1872/submission/222279737)<br>
 [A: Two vessels Wrong solution during contest](https://codeforces.com/contest/1872/submission/222341110)<br>
