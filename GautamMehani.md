@@ -41,10 +41,10 @@ Here is the link in which I practised set in STL. <br>
 I went Satna with my family so my whole day was spent in travelling and that is why I couldn't practised CP. <br>
 
 ## Day 5 : 02 Sep 2023 <br>
-The problem Good Arrays which I left unsubmitted in day 1 finally got submitted when I tried it with another logic after watching soln here is the link 
+The problem Good Arrays which I left unsubmitted in day 1 finally got submitted when I tried it with another logic after watching solution here is the link 
 [Good Arrays CF](https://codeforces.com/contest/1856/submission/221561175)<br>
 
-Watched next  lecture of STL i.e. L-10 of STL by LUV YouTube channel which was about nesting of containers in STL and solved a question in which I learned to use multiset whenever we do not wnat to remove duplicate data <br>
+Watched next  lecture of STL i.e. L-10 of STL by LUV YouTube channel which was about nesting of containers in STL and solved a question in which I learned to use multiset whenever we do not want to remove duplicate data <br>
 [MarksAndNameEntries](https://www.hackerearth.com/problem/algorithm/the-monk-and-class-marks/?fbclid=IwAR09BMLG-1NhqDlVQq0KIzSr8ZTgqrbJmdfnsXc7KnDiphgX5UmbFLoEYjE)<br>
 
 
@@ -86,3 +86,8 @@ Given Codeforces Round 895 Div. 3 contest link is below : <br>
 [A: Two vessels Wrong solution during contest](https://codeforces.com/contest/1872/submission/222341110)<br>
 [A: Two vessels Right solution after 10minutes of contest](https://codeforces.com/contest/1872/submission/222348130)<br>
 Rest questions I will try later.
+
+
+## Day 11 : 08 Sep 2023 <br>
+Here is the link where I practised Algorithms and lambda functions used in STL <br>
+[AlgoAndLambdaFunc](https://pastebin.com/fTTRGhy9)<br>
