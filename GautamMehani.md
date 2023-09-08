@@ -92,3 +92,8 @@ Rest questions I will try later.
 ## Day 11 : 08 Sep 2023 <br>
 Here is the link where I practised Algorithms and lambda functions used in STL <br>
 - [AlgoAndLambdaFunc](https://pastebin.com/fTTRGhy9)<br>
+Watched 19th last vedio of STL playlist of LUV and attempted following question : 
+- [Help Joe II](https://assessment.hackerearth.com/challenges/college/luv_youtube_cp_course_contest_3/algorithm/help-joe-ii/submission/85902496/)<br>
+Tried second question using multimap but LUV sir given solution using vector of pair and set that is why my answer got partially accepted 1 test case passed then I optimised then 2 test case passed
+- [Too Lazy Que Sol 1 testCase Passed and TLE for others](https://www.hackerearth.com/submission/85915859/)
+- [Too Lazy Que Sol 2 testCase Passed](https://www.hackerearth.com/submission/85916072/)
