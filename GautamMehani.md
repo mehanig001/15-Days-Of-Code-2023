@@ -95,5 +95,16 @@ Here is the link where I practised Algorithms and lambda functions used in STL <
 Watched 19th last vedio of STL playlist of LUV and attempted following question : 
 - [Help Joe II](https://assessment.hackerearth.com/challenges/college/luv_youtube_cp_course_contest_3/algorithm/help-joe-ii/submission/85902496/)<br>
 Tried second question using multimap but LUV sir given solution using vector of pair and set that is why my answer got partially accepted 1 test case passed then I optimised then 2 test case passed
-- [Too Lazy Que Sol 1 testCase Passed and TLE for others](https://www.hackerearth.com/submission/85915859/)
-- [Too Lazy Que Sol 2 testCase Passed](https://www.hackerearth.com/submission/85916072/)
+- [Too Lazy Que Sol 1 testCase Passed and TLE for others](https://www.hackerearth.com/submission/85915859/)<br>
+
+- [Too Lazy Que Sol 2 testCase Passed](https://www.hackerearth.com/submission/85916072/)<br>
+
+
+## Day 12 : 09 Sep 2023 <br>
+Finally completed all 19 videos of STL by LUV and submitted following codes first tried myself and then seen solution<br>
+- [Luffy Needs Food](https://assessment.hackerearth.com/challenges/college/luv_youtube_cp_course_contest_3/algorithm/luffy-needs-food/submission/85931609/)<br>
+- [Last Wish Partially submitted](https://assessment.hackerearth.com/challenges/college/luv_youtube_cp_course_contest_3/algorithm/last-wish/submission/85943824/)<br>
+- [Last Wish Fully Accepted](https://assessment.hackerearth.com/challenges/college/luv_youtube_cp_course_contest_3/algorithm/last-wish/submission/85944355/)<br>
+- [Doraemon and His Pocket of Wonder Partially Submitted](https://assessment.hackerearth.com/challenges/college/luv_youtube_cp_course_contest_3/algorithm/doraemon-andd-his-pocket-of-wonder/submission/85945001/)<br>
+- [Doraemon and His Pocket of Wonder Accepted](https://assessment.hackerearth.com/challenges/college/luv_youtube_cp_course_contest_3/algorithm/doraemon-andd-his-pocket-of-wonder/submission/85945091/)<br>
+
