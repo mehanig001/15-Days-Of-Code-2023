@@ -104,7 +104,7 @@ Tried second question using multimap but LUV sir given solution using vector of 
 Finally completed all 19 videos of STL by LUV and submitted following codes first tried myself and then seen solution<br>
 - [Luffy Needs Food](https://www.hackerearth.com/submission/85931609/)<br>
 - [Last Wish Partially submitted](https://www.hackerearth.com/submission/85943824/)<br>
-- [Last Wish Fully Accepted](https://www.hackerearth.com/submission/85944355/)br>
+- [Last Wish Fully Accepted](https://www.hackerearth.com/submission/85944355/)<br>
 - [Doraemon and His Pocket of Wonder Partially Submitted](https://www.hackerearth.com/submission/85945001/)<br>
 - [Doraemon and His Pocket of Wonder Accepted](https://www.hackerearth.com/submission/85945091/)<br>
 
