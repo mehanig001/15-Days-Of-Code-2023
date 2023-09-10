@@ -108,3 +108,10 @@ Finally completed all 19 videos of STL by LUV and submitted following codes firs
 - [Doraemon and His Pocket of Wonder Partially Submitted](https://www.hackerearth.com/submission/85945001/)<br>
 - [Doraemon and His Pocket of Wonder Accepted](https://www.hackerearth.com/submission/85945091/)<br>
 
+
+## Day 13 : 10 Sep 2023 <br>
+
+Tried to solve que Sequence Game in which it was throwing error on Day 1 in test case 1 with same logic I found error in my code by dry run and then I submitted again but in TestCase 5 it is showing an error of TLE here is the link <br>
+- [Sequence Game](https://codeforces.com/contest/1862/submission/222703564)<br>
+
+
