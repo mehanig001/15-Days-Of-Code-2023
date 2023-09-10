@@ -114,4 +114,7 @@ Finally completed all 19 videos of STL by LUV and submitted following codes firs
 Tried to solve que Sequence Game in which it was throwing error on Day 1 in test case 1 with same logic I found error in my code by dry run and then I submitted again but in TestCase 5 it is showing an error of TLE here is the link <br>
 - [Sequence Game](https://codeforces.com/contest/1862/submission/222703564)<br>
 
+Given Codeforces Div2 contest and submitted B Question in which 2 pretest are passed<br>
+- [2D Travelling](https://codeforces.com/contest/1869/submission/222799404)<br>
+
 
