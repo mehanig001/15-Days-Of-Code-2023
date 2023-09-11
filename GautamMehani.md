@@ -117,4 +117,10 @@ Tried to solve que Sequence Game in which it was throwing error on Day 1 in test
 Given Codeforces Div2 contest and submitted B Question in which 2 pretest are passed<br>
 - [2D Travelling](https://codeforces.com/contest/1869/submission/222799404)<br>
 
+## Day 14 : 11 Sep 2023 <br>
+Today I have headache so I couldn't practised much questions but tried MakeItZero que:A of above contest<br>
+- [MakeAllZero](https://codeforces.com/contest/1869/submission/222988097)<br>
+
+
+
 
