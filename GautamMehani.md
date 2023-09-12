@@ -122,5 +122,23 @@ Today I have headache so I couldn't practised much questions but tried MakeItZer
 - [MakeAllZero](https://codeforces.com/contest/1869/submission/222988097)<br>
 
 
+## Day 15 : 12 Sep 2023 <br>
+
+Today I had tried 800 rating question of Codeforces but tried some different logic instead of giving bruteforce solution <br>
+Submission links for todays que<br>
+- [Array Coloring](https://codeforces.com/contest/1857/submission/223111286)<br>
+- [Tales of Sort](https://codeforces.com/contest/1856/submission/223116086)<br>
+- [Desorting](https://codeforces.com/contest/1853/submission/223121844)<br>
+
+
+
+### Thanks to the team vision for organising such Vision 15 days of code log !!!<br>
+In these 15 days I had learned about STL(Standard Template Library in C++)
+Also I have explored codeforces and appeared in contests of both Div2 and Div3 and enhanced my rating from 0 to 729
+These contest given me compititive environment and problems which are really good and based on example on real life in which we have to submit code within time.<br>
+### I hope I will continue same hardwork for upcoming days.
+
+
+
 
 
