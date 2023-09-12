@@ -129,6 +129,7 @@ Submission links for todays que<br>
 - [Array Coloring](https://codeforces.com/contest/1857/submission/223111286)<br>
 - [Tales of Sort](https://codeforces.com/contest/1856/submission/223116086)<br>
 - [Desorting](https://codeforces.com/contest/1853/submission/223121844)<br>
+- [long long](https://codeforces.com/contest/1843/submission/223131386)<br>
 
 
 
